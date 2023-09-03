@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PerryBhandal
-- 👀 I’m interested in Flutter, Dart, Python, Java and TypeScript
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in React Native, TypeScript, Python, and FastAPI.
+- 🌱 I’m currently building www.ClickPAC.com
 - 📫 Reach me at perry@perryb.ca
 
 <!---
