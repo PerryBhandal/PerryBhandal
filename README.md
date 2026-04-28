@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PerryBhandal
 - 👀 I’m interested in React Native, TypeScript, Python, and FastAPI.
-- 🌱 I’m currently building BlueBid! Stay tuned.
+- 🌱 I’m currently leading Perrient Software. Visit us at https://www.perrient.com
 - 📫 Reach me at perry@perryb.ca
 
 <!---
